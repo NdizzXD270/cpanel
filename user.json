@@ -1,4 +1,7 @@
-{
-  "username": "NdizzXD",
-  "password": "ZeroXX"
-}
+[
+  {
+    "username": "NdizzXD",
+    "password": "ZeroXX",
+    "role": "dev"
+  }
+]
